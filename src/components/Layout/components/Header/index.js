@@ -18,7 +18,7 @@ import Tippy from '@tippyjs/react';
 import 'tippy.js/dist/tippy.css';
 import { InboxIcon, MessageIcon, UploadIcon } from '~/components/Icons';
 import Image from '~/components/Image';
-import Search from '~/components/Search';
+import Search from '../Search';
 
 const cx = classNames.bind(styles);
 
